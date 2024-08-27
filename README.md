@@ -21,7 +21,7 @@ PASOS PARA EL FUNCIONAMIENTO
 5. npm run start
 6. cd client
 7. npm install
-8. npm start
+8. npm start o npm run dev
 
 
 CONFIGURACIÓN DEL FICHERO .ENV
