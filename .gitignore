@@ -1,5 +1,5 @@
 .env
-src/uploads/avatar/*
-src/uploads/publications/*
-node_modules/*
-client/node_modules/*
+src/uploads/avatar/
+src/uploads/publications/
+node_modules/
+client/node_modules/
