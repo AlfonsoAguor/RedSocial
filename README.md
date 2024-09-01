@@ -27,7 +27,7 @@ PASOS PARA EL FUNCIONAMIENTO
 CONFIGURACIÓN DEL FICHERO .ENV
 ------------------------------
 
-EL fichero .en debera contener la siguiente configuración
+EL fichero .env debera contener la siguiente configuración
 MONGODB_URI="Direccion de MongoDBs"
 PORT="Puerto"
 SECRET_TOKEN="Contraseña para byscript"
