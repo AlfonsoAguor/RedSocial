@@ -13,9 +13,8 @@ Y por ultimo todo el desarrollo del frontend esta hecho enteramente por mi.
 
 PASOS PARA EL FUNCIONAMIENTO
 ----------------------------
-
-```bash
-echo"hola mundo"
+```ruby
+require 'redcatoet'
 ```
 1. git clone https://github.com/AlfonsoAguor/redSocial
 2. cd redSocial
